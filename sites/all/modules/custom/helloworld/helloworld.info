@@ -1,0 +1,6 @@
+name = helloworld
+description = This is helloworld Module
+version = 7.1.1
+core = 7.x
+files[] = helloworld.module
+datestamp = "1269192313"
